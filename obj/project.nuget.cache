@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3L6dXRdxvALu76RkIeCJta/W9oHLijYKAvGq2pydIX/5rWJkqFnIU/uIGTcxw4naJZPBp+Y5I+LQ8zmItL+svg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ogor\\Desktop\\QS\\QS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ogor\\.nuget\\packages\\lib.harmony\\2.2.2\\lib.harmony.2.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
